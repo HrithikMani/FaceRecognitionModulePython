@@ -1,0 +1,2 @@
+# FaceRecognitionModulePython
+It recognises faces
